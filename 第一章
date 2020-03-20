@@ -1,0 +1,19 @@
+#第一题
+print('''
+==========我的名片==========
+ 姓名：kaikeba
+ QQ：XXXXXXXXX
+ 手机号：185XXXX
+ 公司地址：北京市XXXX
+ ===========================
+ ''')
+#第二题
+print('==========我的名片==========\n姓名：kaikeba\nQQ：XXXXXXXXX\n手机号：185XXXX\n公司地址：北京市XXXX\n===========================')
+#第三题 A
+#第四题
+print('hello,python')
+print('''hello,python''')
+#第五题
+x='我的身高是'
+y=180
+print(x+str(y))
